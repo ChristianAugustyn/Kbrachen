@@ -2,5 +2,13 @@
 @import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
-html, body { height: 100%; }
-body { margin: 0; font-family: 'Roboto', sans-serif; }
+html, body { 
+    height: 100%; 
+}
+body { 
+    margin: 0; font-family: 'Roboto', sans-serif; 
+}
+
+.bg-app {
+    background-color: black;
+}
